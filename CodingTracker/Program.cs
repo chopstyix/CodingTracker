@@ -1,2 +1,19 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, C# Academy! One more modification!"); Console.WriteLine("Hello, C# Academy! One more modification!"); Console.WriteLine("Hello, C# Academy! One more modification!"); Console.WriteLine("Hello, C# Academy! One more modification!"); Console.WriteLine("Hello, C# Academy! One more modification!"); Console.WriteLine("Hello, C# Academy! One more modification!");
+﻿void MyFirstMethod()
+{
+    // Do something first
+}
+
+void MySecondMethod()
+{
+    // Do something second
+}
+
+void MyThirdMethod()
+{
+    // Do something third
+}
+
+void MyFourthMethod()
+{
+    // Do something fourth
+}
